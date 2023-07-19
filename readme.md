@@ -1,3 +1,6 @@
+I've moved this to https://github.com/wd5gnr/elf2k-xfr which is more configuable
+
+
 Paced Uploaders
 ===============
 
